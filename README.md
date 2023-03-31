@@ -1,5 +1,5 @@
 # Measuring the Performance of Online Retail Sales
-this is one of my personal projects to practice my data analysis skills. <a href="https://github.com/lanafuadi/rakamin_digifest33.git">click here</a>.
+this is one of my personal projects to practice my data analysis skills. <a href="https://github.com/lanafuadi?tab=repositories">click here</a> to see another project.
 
 
 <p align="center">
